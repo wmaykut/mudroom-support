@@ -4,8 +4,7 @@
 share works-in-progress and keep momentum. This page explains how to get help, report a
 problem, or request a feature.
 
-If you just need a fast answer, check the [FAQ](#faq) first — it covers most questions.
-
+If you just need a fast answer, check the [FAQ](#faq) first!
 ---
 
 ## How to get help
@@ -80,6 +79,8 @@ note below on privacy.
 **The app won't load / is stuck on a blank screen.**
 First, fully close and reopen the app. If that doesn't help, make sure you're on the
 latest version, then [open a bug report](../../issues/new) with your device and OS.
+
+**Will there be more features in the app soon?** Since this is currently a free app we make updates and improvements as quickly as possible and as much as our resources allow. In the future, paid features may allow us to add more features, speed, and capablities.
 
 ---
 
